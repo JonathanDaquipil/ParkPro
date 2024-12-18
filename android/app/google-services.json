@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "195524152382",
+    "project_id": "parkpro-6e35e",
+    "storage_bucket": "parkpro-6e35e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195524152382:android:c9be3473d20480b524556f",
+        "android_client_info": {
+          "package_name": "com.example.parkpro_enforc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDDGHXgZwa1HFnaMerO9erh2iYkUp4QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195524152382:android:d1fc094249521cb724556f",
+        "android_client_info": {
+          "package_name": "com.example.parkpro_enforc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDDGHXgZwa1HFnaMerO9erh2iYkUp4QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195524152382:android:232869b1f72e66c824556f",
+        "android_client_info": {
+          "package_name": "com.example.parkpro_enforc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDDGHXgZwa1HFnaMerO9erh2iYkUp4QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
